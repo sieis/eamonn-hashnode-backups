@@ -2,7 +2,7 @@
 
 ## 0. Hashnode Docs
 
-@Hashnode is awesome! [Here is the official documentation for auto-backups](https://support.hashnode.com/docs/github-backup). But, I was so excited when I saw this feature, I wanted to highlight it myself as well. There are a couple small items that have been updated since the support article was published too. Info below in #2 👇
+@Hashnode is awesome! [Here is the official documentation for auto-backups](https://support.hashnode.com/docs/github-backup). But...I was so excited when I saw this feature, I wanted to highlight it myself as well. There are a couple small items that have been updated since the support article was published too. Info below in #2 👇
 
 I realized that auto-backup to GitHub was a thing while reading a [comparison of Hashnode and Dev.to](https://hashnode.com/vs/devto?source=hashnode-footer). They're both wonderful platforms, and the linked comparison was from Hashnode, so it's bent toward itself. 
 
