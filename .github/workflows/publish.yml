@@ -54,4 +54,4 @@ jobs:
           Changes result:
           ```
           ${{ steps.publish_devto.outputs.result_summary }}
-          ```'\n'
+          ```
