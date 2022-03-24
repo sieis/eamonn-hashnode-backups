@@ -1,13 +1,3 @@
----
-title: Hashnode Auto-Backup Posts on Github
-published: true
-cover_image: 'https://blog.eamonncottrell.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1647889260903%2F5_LFkRwqG.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75'
-canonical_url: 'https://blog.eamonncottrell.com/hashnode-auto-backup-posts-on-github'
-tags: 'hashnode,github,beginnerdevelopers,markdown'
-id: 1033427
-date: '2022-03-24T18:08:00Z'
----
-
 ## Hashnode Auto-Backup Posts on Github
 
 ## 0. Hashnode Docs
@@ -22,7 +12,7 @@ Create a new repository over on GitHub.
 
 ![new repository on GitHub](https://cdn.hashnode.com/res/hashnode/image/upload/v1647883045256/3Kt7fBUvw.png)
 
-Throw down a quick ```README.md``` for good taste. **Because you're awesome**. And you want a link to your live site for the 1 person per year that will find you through GitHub.
+Throw down a quick `README.md` for good taste. **Because you're awesome**. And you want a link to your live site for the 1 person per year that will find you through GitHub.
 
 ![readme image](https://cdn.hashnode.com/res/hashnode/image/upload/v1647883267212/yURr48xlH.png)
 
