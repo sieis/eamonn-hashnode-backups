@@ -132,7 +132,7 @@ You'll need the front matter to contain at least a title for the Action to recog
 
 And, as you'll see in the issues section at the bottom of this article, you'll probably want to include the `published: true` line below as well.
 
-```
+```yml
 ---
 title: Example article title
 published: false
@@ -147,9 +147,6 @@ Some random text with a [link](https://code.visualstudio.com).
 
 ## Serious title
 
-Add some text here and there!
-
-here ![and some pictures too](./assets/cat.jpg)
 
 ```
 
