@@ -5,6 +5,7 @@ cover_image: 'https://blog.eamonncottrell.com/_next/image?url=https%3A%2F%2Fcdn.
 canonical_url: 'https://blog.eamonncottrell.com/hashnode-auto-backup-posts-on-github'
 tags: 'hashnode,github,beginnerdevelopers,markdown'
 id: 1033427
+date: '2022-03-24T18:08:00Z'
 ---
 
 ## Hashnode Auto-Backup Posts on Github
