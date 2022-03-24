@@ -10,7 +10,7 @@ tags: 'netlify,javascript,netlifyhackathon,html5,css'
 
 ## The Product
 
-I have created a memory tool. 
+I have created a memory tool.. 
 
 Check it out [here](https://infinite-memory.netlify.app/). And the code is [here](https://github.com/sieis/infinite-memory).
 

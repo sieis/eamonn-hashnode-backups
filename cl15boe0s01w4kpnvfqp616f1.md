@@ -8,7 +8,7 @@ tags: 'hashnode,dev,github,tutorial'
 
 ## Re-Publishing Hashnode Articles to DEV with GitHub Actions
 
-## Prerequisite
+## Prerequisites
 
 1. A @Hashnode account w backup to GitHub
 1. A DEV account w API key
