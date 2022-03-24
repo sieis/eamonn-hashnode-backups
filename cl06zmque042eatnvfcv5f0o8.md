@@ -1,7 +1,8 @@
-```
+---
 title: Version Releases and Git Tags for Beginners
+published: true
 canonical_url: https://blog.eamonncottrell.com/version-releases-and-git-tags-for-beginners
-```
+---
 ## Version Releases and Git Tags for Beginners
 
 I didn't know this was a thing.
