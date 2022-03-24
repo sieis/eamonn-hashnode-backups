@@ -1,7 +1,9 @@
 ---
 title: Version Releases and Git Tags for Beginners
 published: true
-canonical_url: https://blog.eamonncottrell.com/version-releases-and-git-tags-for-beginners
+canonical_url: 'https://blog.eamonncottrell.com/version-releases-and-git-tags-for-beginners'
+id: 1033439
+date: '2022-03-24T17:54:52Z'
 ---
 ## Version Releases and Git Tags for Beginners
 
