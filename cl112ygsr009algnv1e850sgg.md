@@ -1,6 +1,7 @@
 ---
 title: Hashnode Auto-Backup Posts on Github
-canonical_url: https://blog.eamonncottrell.com/hashnode-auto-backup-posts-on-github
+canonical_url: 'https://blog.eamonncottrell.com/hashnode-auto-backup-posts-on-github'
+id: 1033427
 ---
 
 ## Hashnode Auto-Backup Posts on Github
