@@ -16,7 +16,7 @@ tags: 'hashnode,dev,github,tutorial'
 
 ## Backup Repo
 
-You'll want to backup your @Hashnode articles to your GitHub account first. I wrote about how to do that [here](https://blog.eamonncottrell.com/hashnode-auto-backup-posts-on-github) and it's pretty easy to do.
+You'll want to backup your @Hashnode articles to your GitHub account first. I wrote about how to do that [here](https://blog.eamonncottrell.com/hashnode-auto-backup-posts-on-github), and it's pretty easy to do.
 
 ![Hashnode-AutoBackup.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1648059300218/82Avo86g3.jpg)
 
