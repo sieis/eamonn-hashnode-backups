@@ -1,9 +1,11 @@
 <!-- ---
-title: Infinite Memory
-cover_image: 'https://blog.eamonncottrell.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1645985389253%2FW5e_iWYIN.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75'
+title: Hashnode Auto-Backup Posts on Github
 published: true
-canonical_url: 'https://blog.eamonncottrell.com/infinite-memory'
-tags: 'netlify,javascript,netlifyhackathon,html5,css'
+cover_image: 'https://blog.eamonncottrell.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1647889260903%2F5_LFkRwqG.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75'
+canonical_url: 'https://blog.eamonncottrell.com/hashnode-auto-backup-posts-on-github'
+tags: 'hashnode,github,beginnerdevelopers,markdown'
+id: 1033427
+date: '2022-03-24T18:08:00Z'
 --- -->
 
 ## Infinite Memory
