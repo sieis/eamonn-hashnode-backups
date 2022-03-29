@@ -32,7 +32,7 @@ See why it's so much easier to just start out with the `SHIFT+?` and enable shor
 
 ## Search the Shortcuts
 
-Press `SHIFT+?` again. This is another wonderful place to `CTR/CMD+F` and quickly type what you're looking for. This is how I familiarized myself with the common things I did daily.
+Press `SHIFT+?` again. This is another wonderful place to `CTR/CMD+F` and quickly type what you're looking for. This is how I familiarized myself with the common shortcuts I would use daily.
 
 ![search the shortcuts](https://cdn.hashnode.com/res/hashnode/image/upload/v1648569075046/1yDUHtAbz.png)
 
