@@ -1,14 +1,10 @@
-<!-- ---
-title: Republish Hashnode on DEV with GitHub Actions
-cover_image: 'https://blog.eamonncottrell.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1648146153672%2F7cAZKA2CB.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75'
-published: true
-canonical_url: 'https://blog.eamonncottrell.com/re-publishing-hashnode-articles-to-dev-with-github-actions'
-tags: 'hashnode,dev,github,tutorial'
---- -->
-
 ## Re-Publishing Hashnode Articles to DEV with GitHub Actions
 
-## Prerequisites
+## *Update: An Easier Way*
+
+*[Here's my article about the easier way](https://blog.eamonncottrell.com/re-syndicate-hashnode-to-dev-the-easy-way) to do all of this via an RSS feed import. It was still fun to learn about GitHub Actions and set things up, so feel free to keep reading and explore this more laborious route as well!*
+
+## Prerequisite
 
 1. A @Hashnode account w backup to GitHub
 1. A DEV account w API key
@@ -16,7 +12,7 @@ tags: 'hashnode,dev,github,tutorial'
 
 ## Backup Repo
 
-You'll want to backup your @Hashnode articles to your GitHub account first. I wrote about how to do that [here](https://blog.eamonncottrell.com/hashnode-auto-backup-posts-on-github), and it's pretty easy to do.
+You'll want to backup your @Hashnode articles to your GitHub account first. I wrote about how to do that [here](https://blog.eamonncottrell.com/hashnode-auto-backup-posts-on-github) and it's pretty easy to do.
 
 ![Hashnode-AutoBackup.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1648059300218/82Avo86g3.jpg)
 
