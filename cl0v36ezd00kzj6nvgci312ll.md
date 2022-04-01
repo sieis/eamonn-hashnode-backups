@@ -54,6 +54,37 @@ iframe:
 
 Interestingly, I accidentally used the Bootstrap 4 solution initially and it worked on mobile while not fully expanding on larger screens. 
 
+## Solving Hero Section Flex Box Issues
+
+After having found this original solution, I ran into another use case a couple weeks later. When I wrapped the iframe with ratio and ratio-16x9, I was getting unwanted behavior: the video was getting too big, and it was displaying beneath my Hero Section's Title instead of beside it.
+
+If you're using rows and columns and hit a snag like this, you will want to make sure the div you're adding `ratio` too is within the div you're using `col` on. 
+
+I also found it useful to style the iframe with min and max widths and heights so it wouldn't shrink too small. 
+
+See below:
+
+```html
+        <!-- =================================HERO================================= -->
+      </header>
+      <div class="container-fluid bg-light border-3 border-gold bg-gold-gradient col-xxl-12 px-5 py-5">
+        <div class="row flex align-items-center g-5 py-5">
+            <div class="px-5 col-lg-6">
+              <h1 class="main-font display-1 fw-bold lh-1 mb-3 ">Origami West</h1>
+              <p class="lead">Super good thing win fast metal big sound.</p>
+              <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                <a href="#beta" class="btn btn-lg btn-outline-gold">Beta Sign-up</a>
+              </div>
+            </div>
+          <div class="col-10 col-sm-8 col-lg-6">
+            <div class="ratio ratio-16x9 m-0 p-0">
+              <iframe class="" style="min-width:280px; min-height:157px;" width="560px" height="315px" src="https://www.youtube.com/embed/lwkGjzT-0QA?controls=0" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+```
+
 ## Embedding on Hashnode 🖥️
 
 Bonus! Here's the video in question. And it's super easy to embed right here on Hashnode. All that's required is a handy percent sign 😀. [Here are the embed docs.](https://support.hashnode.com/docs/embeds)
