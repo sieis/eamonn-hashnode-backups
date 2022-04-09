@@ -14,7 +14,7 @@ I've already been through the introduction to Bash section which was a nice over
 
 ### A Word of Caution
 
-After completing 70% of the certificate, I encountered issues logging back in to finish it. I've had to delete the container and start from scratch. **If you work on this certificate while it's in Beta, I recommend leaving it open in your browser from start to finish.**
+After completing 70% of the project, I encountered issues logging back in to finish it. I've had to delete the container and start from scratch. **If you work on this certificate while it's in Beta, I recommend leaving each project open in your browser from start to finish.**
 
 ## Mario Database
 
