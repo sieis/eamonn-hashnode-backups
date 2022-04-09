@@ -2,7 +2,7 @@
 
 ## Yes, My First-ish Time
 
-I've dabbled with SQL a couple times, but never truly dove all the way in. I took [Google's Data Analytics](https://grow.google/certificates/data-analytics/#?modal_active=none) certification last year, and it gave a nice cursory overview of SQL, Big Query, Tableau and the R language. But, I'm ready to sink my teeth into understanding how to use PostgreSQL out in the wild. And, I must admit, I'm not exactly sure what the difference between PostgreS
+I've dabbled with SQL a couple times, but never truly dove all the way in. I took [Google's Data Analytics](https://grow.google/certificates/data-analytics/#?modal_active=none) certification last year, and it gave a nice cursory overview of SQL, Big Query, Tableau and the R language. But, I'm ready to sink my teeth into understanding how to use PostgreSQL out in the wild.
 
 ## It's in Beta
 
