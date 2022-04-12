@@ -74,9 +74,11 @@ Having to start over can be very demoralizing, and is often an excuse to throw i
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1649759687630/On1anQ8zw.png)
 
-In the case of Mario, it is very doable in one sitting. It may take 1-2+ hours, but if you can, knock it out. 
+In the case of Mario, it is very doable in one sitting. **It may take 1-2+ hours**, but if you can, knock it out. 
 
 In the case of Celestial Bodies, I did have to delete the container, reload the project, and load my saved data (more on these details below because you really don't want to start this one over imo).
+
+And it was a big longer than Mario. I estimate it took me **roughly 2.5+ hours to complete** the Celestial Bodies project. *Not counting the extra work troubleshooting the issues I hit.*
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1649758265946/5DUsYZyr6.png)
 
