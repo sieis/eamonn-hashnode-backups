@@ -1,4 +1,4 @@
-## Encouragement for freeCodeCamp's Relational Database Course
+## Relational Databases with freeCodeCamp
 
 I've run into some hurdles along the way. Hopefully this can save you a bit of trouble.
 
