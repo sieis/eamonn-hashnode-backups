@@ -55,7 +55,7 @@ After completing 70% of the project, I encountered issues logging back in to fin
 1. `ALTER TABLE table_name DROP CONSTRAINT constraint_name;`: drop a constraint (like removing a primary key)
 1. `ALTER TABLE table_name ALTER COLUMN column_name DROP CONSTRAINT constraint_name;`: drop a constraint from a column in the table.
 1. `ALTER TABLE table_name ADD COLUMN column_name DATATYPE REFERENCES referenced_table_name(referenced_column_name);`: Holy Toledo! This is how you set a foreign key. So it links tables together. The column added links to the referenced column in the referenced table. 
-1. `ALTER TABLE table_name ADD FOREIGN KEY(key_name) REFERENCES(referenced_table_name(referenced_column_name);`: Add a foreign key after the fact instead of with the creation of the column.
+1. `ALTER TABLE table_name ADD FOREIGN KEY(key_name) REFERENCES referenced_table_name(referenced_column_name);`: Add a foreign key after the fact instead of with the creation of the column.
 1. `ALTER TABLE table_name ADD PRIMARY KEY(column1, column2);`: Creates a composite foreign key from values from two columns.
 1. `FULL JOIN`: This is where some magic happens. The full command is here: `SELECT columns FROM table_1 FULL JOIN table_2 ON table_1.primary_key_column = table_2.foreign_key_column;`: This hooks up two columns that we previously linked via keys.
 
