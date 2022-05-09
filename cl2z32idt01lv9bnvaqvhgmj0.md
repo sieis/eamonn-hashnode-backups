@@ -14,7 +14,7 @@ I'm building a portfolio site for an independent game developer who needs a mark
 
 I, like you, am pretty bored with the sameness of many of the Bootstrap sites out there. So, in addition to adding some custom CSS, we wanted to add a lightbox photo gallery component.
 
-> A little tweaking can really help sections to not feel like they were not simply `CTR+C | CTR+V` from Bootstrap examples.
+> A little tweaking can really help sections to not feel like they were simply `CTR+C | CTR+V` from Bootstrap examples.
 
 %[https://media.giphy.com/media/YAy9NNu16pYYg/giphy.gif]
 
