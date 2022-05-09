@@ -1,4 +1,4 @@
-## How 2 Quickly Create a Lightbox Photo Gallery in Your Bootstrap 5 Site
+## How To Quickly Create a Lightbox Photo Gallery in Your Bootstrap 5 Site
 
 ## Solution
 
