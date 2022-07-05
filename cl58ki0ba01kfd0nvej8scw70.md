@@ -1,5 +1,8 @@
 ## JavaScript String to Date - Date Parsing in JS
 
+> This article originally appeared on freeCodeCamp [here](https://www.freecodecamp.org/news/javascript-string-to-date-date-parsing-in-js/
+).
+ 
 Dates are a pretty fundamental concept. We use them all the time. And computers use them all the time. But parsing dates using JavaScript can be a little...well, interesting.
 
 In this article, we'll:
