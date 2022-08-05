@@ -54,17 +54,17 @@ Here's what I found that works like a charm. [BS5-Lightbox](https://github.com/t
 
 Three options:
 
-1. [Download](https://raw.githubusercontent.com/trvswgnr/bs5-lightbox/main/dist/index.bundle.min.js)
-2. [CDN](<script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.0/dist/index.bundle.min.js"></script>)
-3. [NPM](https://www.npmjs.com/package/bs5-lightbox)
+1. [NPM](https://www.npmjs.com/package/bs5-lightbox)
+1. [Direct Download](https://raw.githubusercontent.com/trvswgnr/bs5-lightbox/main/dist/index.bundle.min.js) (right-click, Save As)
+1. CDN (add **after** Bootstrap 5's CDN):
+```html
+<script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.0/dist/index.bundle.min.js"></script>
+```
 
 Because I'm simple, I grabbed the CDN approach for our project.
 
 Throw the script at the bottom of your `<body>` and you're good to use this handy library.
 
-``` html
-<script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.0/dist/index.bundle.min.js"></script>
-```
 
 ### Don't Forget BootstrapJS and Popper 😉
 
