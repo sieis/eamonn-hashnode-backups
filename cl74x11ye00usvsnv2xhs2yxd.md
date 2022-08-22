@@ -11,7 +11,7 @@ Nothing really stuck, though. I had a penchant for accounting and numbers came e
 
 My first college major was piano. That didn't last long. I took a long sabbatical during the truly pretentious days of the early 00's coffee scene to work as a barista and fantasize about owning my cafe.
 
-![barista.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1661179958497/C_9LzQoXi.gif align="center")
+![barista.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1661179958497/C_9LzQoXi.gif align="left")
 
 When the froth settled, I returned to college. This time taking an assortment of histories, creative writing, statistics and anything else that seemed halfway interesting. Naturally, this leads to one of two places: English teachers and business majors.
 
