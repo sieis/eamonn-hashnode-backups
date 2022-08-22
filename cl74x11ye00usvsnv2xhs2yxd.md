@@ -86,7 +86,7 @@ I began to actually put together [some small projects](https://www.eamonncottrel
 
 I began to have a blast.
 
-![have a blast.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1661180760891/JYALOLJmV.gif align="center")
+![havingablast.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1661192244296/B7hzhBbBX.gif align="center")
 
 I really enjoyed the process of building things. I was fascinated by the stories of ordinary people building extraordinary things on the internet using little more than the skills I saw that were within my grasp.
 
@@ -120,7 +120,7 @@ Not plowing through to the point of exhaustion has actually been a critical less
 
 Those extra-curricular activities kept me from coding every single day, but they also kept me more sane and healthy than I would have otherwise been.
 
-![insane.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1661181372003/1Mg6-Ib7r.gif align="left")
+![insane.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1661181372003/1Mg6-Ib7r.gif align="center")
 
 ## Next 
 
