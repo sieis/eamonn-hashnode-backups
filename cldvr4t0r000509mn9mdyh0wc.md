@@ -1,5 +1,7 @@
 # What is a ROM? ROM Price and Cost Estimate
 
+> [Originally published for freeCodecamp](https://www.freecodecamp.org/news/what-is-a-rom-price-and-cost-estimate-2/)
+
 ROM stands for **Rough Order of Magnitude**. It is a project management guideline to determine the estimated range of costs for a project.
 
 This article will explain:
