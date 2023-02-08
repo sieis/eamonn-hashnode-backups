@@ -1,5 +1,7 @@
 # Accounting Number Format in Excel – How to Apply it to Selected Cells
 
+> Originally published for [freeCodeCamp](https://www.freecodecamp.org/news/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells/)
+
 In this article I will show you how to format cells in Microsoft Excel. We'll be looking particularly at the `Accounting` format for cells with numbers.
 
 At the end of the article I'll give you two bonuses: a short video walkthrough of the methods we go over, as well as a breakdown of the differences between the `Accounting` format and the `Currency` format.
