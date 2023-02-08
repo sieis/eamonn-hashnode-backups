@@ -1,5 +1,7 @@
 # How to Clear Formatting in Excel – Remove Format From a Cell
 
+> Originally published for [freeCodeCamp](https://www.freecodecamp.org/news/how-to-clear-formatting-in-excel/)
+
 In this article I will show you how to clear formatting from a cell in Excel. If you want the quick and dirty version, it's first up and will require you to simply click a couple times.
 
 If you want to become a spreadsheet speedrunner, read this whole, brief article. I'll show you a couple keyboard combos and open the door for you to the WIDE world of Excel shortcuts.
