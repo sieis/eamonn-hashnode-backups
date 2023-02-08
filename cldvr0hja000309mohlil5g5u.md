@@ -1,5 +1,7 @@
 # How to Calculate Percentage Differences Between Two Numbers in Excel - Cell Percentage Change Tutorial
 
+> [Originally published for freeCodeCamp](https://www.freecodecamp.org/news/how-to-calculate-percentage-differences-between-two-numbers-in-excel-cell-percentage-change-tutorial/)
+
 Spreadsheets are powerful and awesome. 💪
 
 In this tutorial I will show you four ways to find the percentage difference between two numbers in Excel. I'll also show you how to use custom functions in Google Sheets. 👍
@@ -186,6 +188,6 @@ Yes, often you will opt for simplicity's sake to use a quick formula in Excel or
 
 I hope you've found this useful, and good luck in your own spread-sheeting adventures!
 
-You can find and follow me on [LinkedIn](https://www.linkedin.com/in/eamonncottrell/). I'd love if you said hey. 👋
+You can find and follow me on [YouTube](https://www.youtube.com/@eamonncottrell) & [LinkedIn](https://www.linkedin.com/in/eamonncottrell/). I'd love it if you said hey! 👋
 
 ![Jimmy Fallon saying haaaaay and holding up some hay](https://www.freecodecamp.org/news/content/images/2022/12/hey.gif align="center")
