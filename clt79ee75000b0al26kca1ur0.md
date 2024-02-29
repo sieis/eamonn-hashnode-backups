@@ -1,13 +1,13 @@
 ---
-title: "6 Ways to number in Excel"
-seoDescription: "Easy ways to increase your productivity in Excel by automating ways to number and sequence things."
-datePublished: Thu Feb 29 2024 13:26:25 GMT+0000 (Coordinated Universal Time)
+title: 6 Ways to number in Excel
+seoDescription: Easy ways to increase your productivity in Excel by automating ways to number and sequence things.
+datePublished: 'Thu Feb 29 2024 13:26:25 GMT+0000 (Coordinated Universal Time)'
 cuid: clt79ee75000b0al26kca1ur0
 slug: 6-ways-to-number-in-excel
-canonical: https://got-sheet.beehiiv.com/p/numbering-in-excel
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709212836313/fa92b70b-ba90-48e6-b828-0dae5bc6c964.jpeg
-tags: productivity, excel, spreadsheets
-
+canonical: 'https://got-sheet.beehiiv.com/p/numbering-in-excel'
+cover: 'https://cdn.hashnode.com/res/hashnode/image/upload/v1709212836313/fa92b70b-ba90-48e6-b828-0dae5bc6c964.jpeg'
+tags: 'productivity, excel, spreadsheets'
+id: 1776163
 ---
 
 Since last we spoke I’ve been recording several new long and short form videos. Check out the [YouTube Channel](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy55b3V0dWJlLmNvbS9AZWFtb25uY290dHJlbGw_dXRtX3NvdXJjZT1nb3Qtc2hlZXQuYmVlaGlpdi5jb20mdXRtX21lZGl1bT1yZWZlcnJhbCZ1dG1fY2FtcGFpZ249Ni13YXlzLXRvLW51bWJlci1pbi1leGNlbCIsInBvc3RfaWQiOiJlNDVmNmUzMS1lZGIyLTRkNjYtYTYxMi04YTY0MjJiMWM0YTMiLCJwdWJsaWNhdGlvbl9pZCI6IjA2MWZiMmRhLWIxYTItNGU4My04MWI4LTdkNjc2NzhjNTM2NiIsInZpc2l0X3Rva2VuIjoiY2MxZDUwZGUtMjNlMy00NmQxLTliMTMtODQ1OGRmOGU2YmNjIiwiaWF0IjoxNzA5MjEyNzk0LCJpc3MiOiJvcmNoaWQifQ.ghV8a1dCtLY00Hqdq72Pwz3NVFjjyH5rirVfvyjacLs) if you haven’t.
