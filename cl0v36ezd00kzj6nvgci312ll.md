@@ -19,10 +19,6 @@ This worked fine, and previewed well on localhost:5500. But, it was screwy on mo
 
 Luckily, there's a pretty easy fix that Bootstrap documents. [Bootstrap 4 handles it this way](https://getbootstrap.com/docs/4.0/utilities/embed/). [Bootstrap 5 handles it this way](https://getbootstrap.com/docs/5.0/helpers/ratio/#example).
 
-## Video Walkthrough
-
-%[https://youtu.be/P_DaJpTeQ84] 
-
 ## The Code 💾
 
 Both have you wrapping a parent `html <div>` with either `.embed-responsive` or `.ratio` (depending on the Bootstrap version) and then having the iframe within that element.
