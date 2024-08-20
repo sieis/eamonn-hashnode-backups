@@ -4,7 +4,7 @@ datePublished: Tue Aug 20 2024 19:43:02 GMT+0000 (Coordinated Universal Time)
 cuid: cm02u13ug000108mefprg57tk
 slug: how-to-make-a-lightbox-in-a-google-sheet
 canonical: https://www.gotsheet.xyz/p/image-lightbox-in-google-sheets
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1724182903838/eeb430d8-e0e4-4ee8-b11e-b39273d5254f.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724183054064/cb013ab5-a1b7-4514-9101-ff9dbafca11d.jpeg
 tags: google-sheets, excel, spreadsheets, html-image
 
 ---
